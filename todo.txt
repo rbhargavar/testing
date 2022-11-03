@@ -5,3 +5,4 @@ MY TO-DO LIST
 3.Study Books
 4. Attend Classes on time
 5. Visit places
+6. Practice code
